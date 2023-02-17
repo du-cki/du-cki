@@ -1,10 +1,10 @@
 <div align="center">
     <div>
-        <h2 align="center">hello there 👋! I'm du-cki.</h2>
+        <h3 align="center">hello there 👋! I'm du-cki.</h3>
             I am a backend developer who loves programming both professionally and as a hobby.
-            [Python](https://python.org) is my primary language, and I have considerable expertise
+            <a href="https://python.org">Python</a> is my primary language, and I have considerable expertise
             in it. I am always on the lookout to expand my skillset, and currently, I am dedicating
-            my free time to learn [Rust programming language](https://rust-lang.org). It's always
+            my free time to learn <a href="https://rust-lang.org">Rust<a/>. It's always
             exciting to learn something new and challenge myself.
             <br>
             <br>
