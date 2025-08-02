@@ -1,8 +1,9 @@
-### hello there 👋! I'm ducki
+### Hello there 👋! I'm Faaz.
+
 I am a **Fullstack Developer**, but I do love backend work. <img width=10 src="/assets/python.png"> [Python](https://www.python.org)
 is my primary language, but I also know <img width=10 src="/assets/javascript.png"> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 / <img width=10 src="/assets/typescript.png"> [TypeScript](https://www.typescriptlang.org/). I am currently dedicating my free time to learn
-<img width=10 src="/assets/rust.png"> <a href="https://rust-lang.org">Rust<a/>. 
+<img width=10 src="/assets/rust.png"> <a href="https://rust-lang.org">Rust<a/>.
 <br>
 <br>
 
